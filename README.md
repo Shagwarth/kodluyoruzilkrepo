@@ -12,7 +12,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 https://github.com/Shagwarth/kodluyoruzilkrepo.git
 
-'''
+```
 
 ## Usage
 
